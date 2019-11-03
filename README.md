@@ -11,7 +11,7 @@
 
 #These additional half edges allow for more faces to be made i.e the formation of polygons.
 
-#The faces keep track of the half edges in each of its polygon formation. If a polygon has exactly 3 vertices then no refinement is required
+#The faces keep track of the half edges in each of its polygon formation. If a polygon has exactly 3 vertices then no refinement is required.
 
 #If the polygon has greater than 3 then another sorting algorithm is used to transform a polygon into multiple triangles
 
